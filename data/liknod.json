@@ -1,8 +1,8 @@
 {
     "id": 124302305,
     "name": "liknod challenge",
-    "author": ["ad3usgmd"],
-    "creators": "ad3usgmd",
+    "author": "ad3usgmd",
+    "creators": ["ad3usgmd"],
     "verifier": "ad3usgmd",
     "verification": "https://youtu.be/Wn6mV2yyOF8",
     "percentToQualify": "100",
