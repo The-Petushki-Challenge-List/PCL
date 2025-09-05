@@ -1,0 +1,18 @@
+{
+    "id": 125625281,
+    "name": "Quantum Hryak",
+    "author": "ad3usgmd",
+    "creators": ["ad3usgmd"],
+    "verifier": "ad3usgmd",
+    "verification": "https://youtu.be/EC48MjU_D7E",
+    "percentToQualify": "100",
+    "hz": "CBF",
+    "records": [
+        {
+            "user": "Frozix",
+            "link": "https://www.youtube.com/watch?v=W_5VxXzs2PY",
+            "percent": 100,
+            "hz": "CBF"
+        }
+    ]
+}
