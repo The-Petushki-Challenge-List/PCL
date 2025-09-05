@@ -1,18 +1,12 @@
 {
-    "id": 123259166,
-    "name": "potnie yaichki",
+    "id": 124302305,
+    "name": "liknod challenge",
     "author": "ad3usgmd",
-    "creators": ["Nick24", "ad3usgmd"],
-    "verifier": "ROZE",
-    "verification": "https://www.youtube.com/watch?v=W_5VxXzs2PY",
+    "creators": ["ad3usgmd"],
+    "verifier": "ad3usgmd",
+    "verification": "https://youtu.be/Wn6mV2yyOF8",
     "percentToQualify": "100",
     "hz": "CBF",
     "records": [
-        {
-            "user": "СВИНЬЯ",
-            "link": "https://www.youtube.com/watch?v=W_5VxXzs2PY",
-            "percent": 100,
-            "hz": "CBF"
-        }
     ]
 }
