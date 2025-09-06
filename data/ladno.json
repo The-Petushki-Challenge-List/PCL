@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "hz": "CBF",
     "records": [
+        {
+            "user": "ROZE",
+            "link": "https://youtu.be/C6Waw6fydH4",
+            "percent": 100,
+            "hz": "CBF"
+        }
     ]
 }
