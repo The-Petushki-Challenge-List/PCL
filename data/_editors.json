@@ -3,5 +3,25 @@
         "role": "owner",
         "name": "ad3usgmd",
         "link": "https://www.youtube.com/@dubinkagd"
+    },
+    {
+        "role": "admin",
+        "name": "Frozix",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    },
+    {
+        "role": "trial",
+        "name": "ROZE",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    },
+    {
+        "role": "trial",
+        "name": "NeRz1",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    },
+    {
+        "role": "trial",
+        "name": "Liknod",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
     }
 ]
