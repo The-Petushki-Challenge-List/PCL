@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "hz": "CBF",
     "records": [
+        {
+            "user": "хлебопечка",
+            "link": "https://www.youtube.com/watch?v=X8pwyU6km_0",
+            "percent": 100,
+            "hz": "CBF"
+        }
     ]
 }
