@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "hz": "CBF",
     "records": [
+        {
+            "user": "Etreee",
+            "link": "https://www.youtube.com/watch?v=kvHq3Gsc7DA",
+            "percent": 100,
+            "hz": "CBF"
+        }
     ]
 }
