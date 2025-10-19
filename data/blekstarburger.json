@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "hz": "CBF",
     "records": [
+        {
+            "user": "zugi5474",
+            "link": "https://www.youtube.com/watch?v=8KeNHWNuOdw",
+            "percent": 100,
+            "hz": "CBF"
+        }
     ]
 }
