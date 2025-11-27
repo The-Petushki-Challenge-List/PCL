@@ -3,7 +3,7 @@
     "name": "blekstarburger",
     "author": "napipo",
     "creators": [],
-    "verifier": "napipo","ad3usgmd",
+    "verifier": ["napipo", "ad3usgmd"],
     "verification": "https://youtu.be/X2c0rPc3ZcA",
     "percentToQualify": "100",
     "hz": "CBF",
