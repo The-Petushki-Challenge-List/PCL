@@ -1,12 +1,37 @@
 [
     {
         "role": "owner",
-        "name": "ad3usgmd",
+        "name": "ad3usgmd [Owner]",
         "link": "https://www.youtube.com/@dubinkagd"
     },
     {
         "role": "admin",
-        "name": "хз",
+        "name": "Frozix [Admin]",
         "link": "https://www.youtube.com/@FrozixGD"
+    },
+    {
+        "role": "trial",
+        "name": "foxyan17 [Estimator]",
+        "link": "https://www.youtube.com/@foxyan17gd"
+    },
+    {
+        "role": "trial",
+        "name": "ROZE [Estimator]",
+        "link": "https://www.youtube.com/@rozagmd"
+    },
+    {
+        "role": "trial",
+        "name": "NeRz1 [Estimator]",
+        "link": "https://www.youtube.com/@nerz1-kub"
+    },
+    {
+        "role": "trial",
+        "name": "zWadrott [Estimator]",
+        "link": "https://www.youtube.com/@zWadrott"
+    },
+    {
+        "role": "trial",
+        "name": "GreenZz [Estimator]",
+        "link": "https://www.youtube.com/@GreenZz1337"
     }
 ]
