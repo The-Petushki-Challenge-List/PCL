@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "hz": "CBF",
     "records": [
+        {
+            "user": "GreenZz",
+            "link": "https://www.youtube.com/watch?v=srs-CSd0Ffw",
+            "percent": 100,
+            "hz": "CBF"
+        }
     ]
 }
