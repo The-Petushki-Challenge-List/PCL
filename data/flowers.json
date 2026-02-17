@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "hz": "CBF",
     "records": [
+            {
+            "user": "zWadrott",
+            "link": "https://youtu.be/YqldyfZU-1w",
+            "percent": 100,
+            "hz": "CBF"
+        }
     ]
 }
