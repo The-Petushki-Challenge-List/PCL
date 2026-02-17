@@ -8,5 +8,17 @@
     "percentToQualify": "100",
     "hz": "CBF",
     "records": [
+        {
+            "user": "ad3usgmd",
+            "link": "https://t.me/petushkichallengelist/11",
+            "percent": 100,
+            "hz": "CBF"
+        },
+        {
+            "user": "GreenZz",
+            "link": "https://t.me/petushkichallengelist/10",
+            "percent": 100,
+            "hz": "CBF"
+        }
     ]
 }
