@@ -114,6 +114,9 @@ export default {
                     <p>
                         Once a level falls onto the Legacy List, we no longer accept records for them.
                     </p>
+                    <p>
+                    Any parts reused from other levels must be modified in terms of gameplay (e.g., buffed) to be accepted.
+                    </p>
                 </div>
             </div>
         </main>
