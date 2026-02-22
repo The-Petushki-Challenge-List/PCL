@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "hz": "CBF",
     "records": [
+        {
+            "user": "Liknod",
+            "link": "https://youtu.be/MHbfVCkrYLk?si=QFYF7cqvRBl9gX91",
+            "percent": 100,
+            "hz": "CBF"
+        }
     ]
 }
