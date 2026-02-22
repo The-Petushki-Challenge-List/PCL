@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "hz": "CBF",
     "records": [
+        {
+            "user": "KoatiK",
+            "link": "https://youtu.be/IPHhXS9paLk",
+            "percent": 100,
+            "hz": "CBF"
+        }
     ]
 }
