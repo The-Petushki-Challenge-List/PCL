@@ -6,7 +6,13 @@
     "verifier": "ad3usgmd",
     "verification": "https://youtu.be/t9RX7G4OM7Q",
     "percentToQualify": "100",
-    "hz": "CBF",
+    "hz": "CBF/60",
     "records": [
+        {
+            "user": "teralikv",
+            "link": "https://www.youtube.com/watch?v=8bk-RxXJLak",
+            "percent": 100,
+            "hz": "CBF"
+        }
     ]
 }
